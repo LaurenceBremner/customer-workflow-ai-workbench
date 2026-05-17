@@ -1,0 +1,13 @@
+{
+  "project_id": "customer-workflow-ai-workbench",
+  "status": "ready_for_review",
+  "artifact_type": "interactive_react_typescript_app",
+  "scenario_count": 3,
+  "workflow_stages_per_scenario": 6,
+  "integration_checks_per_scenario": 4,
+  "eval_cases_per_scenario": 4,
+  "review_items_per_scenario": 3,
+  "product_signals_per_scenario": 3,
+  "local_api_endpoints": ["/api/health", "/api/evaluate", "/api/export-brief"],
+  "data_boundary": "synthetic workflows only"
+}

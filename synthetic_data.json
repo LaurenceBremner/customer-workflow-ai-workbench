@@ -1,0 +1,19 @@
+{
+  "customers": [
+    "Marketplace operations team",
+    "B2B revenue team",
+    "Customer success team"
+  ],
+  "data_sources": [
+    "seller_profile.csv",
+    "product_feed.csv",
+    "support_notes.txt",
+    "call_transcript.txt",
+    "account_plan.json",
+    "crm_schema.json",
+    "tickets.csv",
+    "feature_taxonomy.json",
+    "release notes file"
+  ],
+  "notes": "Source records are simulated for this case study and do not use confidential source material. Organization names, support notes, metrics, and workflow records are fictional."
+}
